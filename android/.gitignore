@@ -1,0 +1,5 @@
+.gradle/
+build/
+local.properties
+# index.html копіюється з кореня репозиторію під час збірки
+app/src/main/assets/
